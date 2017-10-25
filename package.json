@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://foxtrotyoda@github.com/foxtrotyoda/broken-hackerrank.git"
+    "url": "git+https://github.com/codebloke/broken-hr.git"
   },
   "keywords": [
     "test",
@@ -36,7 +36,7 @@
   "author": "Martin Swiderski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/foxtrotyoda/broken-hackerrank/issues"
+    "url": "https://github.com/codebloke/broken-hr/issues"
   },
-  "homepage": "https://github.com/foxtrotyoda/broken-hackerrank#readme"
+  "homepage": "https://github.com/codebloke/broken-hr#readme"
 }
