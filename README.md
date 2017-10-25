@@ -7,11 +7,11 @@ Even with a simple function, written in Javascript th Hackerrank (HR) behaved er
 
 #### Code
 
-The code and test in Jasmine is [here](tests/specs/oddnumbers_spec.js).
+The source code `Javascript` and its test in `Jasmine` is [here](tests/specs/oddnumbers_spec.js). The **code is building and passess the tests [please see here](https://circleci.com/gh/codebloke/broken-hr)**
 
 #### Running the code
 
-You can checkout the code and having your `NodeJS` setup just ented the **root directory** to run:
+You can **checkout the code to your local machine** and having your `NodeJS` setup just enter the **root directory** to run:
 
 ```bash
 npm install
